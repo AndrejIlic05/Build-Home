@@ -17,4 +17,4 @@ Check out the live website [here](https://build-home-fe3665.webflow.io/).
 - **Webflow**: For design and development.
 
 ## 📧 Contact
-For any inquiries or collaboration opportunities, feel free to reach out via email: iliwebservices@gmail.com
+For any inquiries or collaboration opportunities, feel free to reach out via email: ilicwebservices@gmail.com
